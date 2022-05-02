@@ -1,0 +1,2 @@
+- The-Chorus ([github/The-Chorus](https://github.com/The-Chorus))
+- Ibisliven ([ibis.liven@protonmail.com](mailto://ibis.liven@protonmail.com))
