@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict":true,
+        "module": "ES2020",
+        "alwaysStrict": true,
+        "outDir": "dist",
+    },
+    "include": ["src/**/*"]
+}
