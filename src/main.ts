@@ -7,6 +7,7 @@ const setBackground = (ctx:CanvasRenderingContext2D, color: string) => {
     ctx.save();
     ctx.fillStyle = color;
     ctx.rect(0,0,ctx.canvas.width,ctx.canvas.height);
+    ctx.fill();
     ctx.restore();
 }
 // set canvas size
