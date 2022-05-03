@@ -1,15 +1,16 @@
 # 2D Table Tennis
-learning to code with 2D Table Tennis
+***
+learning to code with 2D Table Tennis.
 ## About
 ### Description
-This is a pong-like game written in Typescript.
-Pong is a table-tennis themed two-dimensional twitch sports game.
-The original Pong was released by Atari in 1972 and created by Allan Alcorn as a training excercise, and was itself based on a ping-pong game included in the Magnavox Odyssey.
+This is a pong-like game written in Typescript for educational purposes.
+Pong® is a table-tennis themed two-dimensional twitch sports game.
+The original Pong® was released by Atari in 1972 and created by Allan Alcorn as a training excercise, and was itself based on a ping-pong game included in the Magnavox Odyssey.
 ### Purpose
 This project was started primarily for @The-Chorus to learn how to code and how to use a Version Control System with the help of @IbisLiven. The purpose of this project is not to be useful, performant, or even very good — only to be a teaching oppurtunity.
 ### Goals
 1. Learn basic coding concepts by doing.
-2. Create a functioning pong-game.
+2. Create a functioning game of "2D table tennis".
 3. Learn how to maintain a codebase.
 4. Add features for more learning oppurtunities.
 ## Usage
@@ -33,14 +34,14 @@ Initially the game will use a default configuration and have **no configuration 
 - the option for matches; and 
 - the option for playing doubles games.
 ### Gameplay
-Pong consists of a game field/window, a ball which moves in straight lines through the field, and two paddles on either end which can move vertically to return the ball.
+The game consists of a game field/window, a ball which moves in straight lines through the field, and two paddles on either end which can move vertically to return the ball.
 
 There are two players, each player controls their paddle and their objective is to return to ball to the other player while preventing the other player from returning the ball to them.
 
 *a single-player mode with a computer opponent may be added in the future.*
 *two-player / four-player modes for doubles games may be added in the future.*
 #### Scoring
-Pong uses a basic incremental scoring system. When a player fails to return the ball to the other, the other player receives one point.
+The game uses a basic incremental scoring system. When a player fails to return the ball to the other, the other player receives one point.
 
 *The option to use different scoring systems may be added in the future.*
 #### Winning
