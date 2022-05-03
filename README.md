@@ -1,6 +1,5 @@
-# Pong
-***
-learning to code with pong
+# 2D Table Tennis
+learning to code with 2D Table Tennis
 ## About
 ### Description
 This is a pong-like game written in Typescript.
