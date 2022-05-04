@@ -1,0 +1,36 @@
+# EditorConfig website: https://EditorConfig.org
+# Please find an EditorConfig extention for your editor.
+# You may need to adjust some of these settings in your editor
+# manually if your editor/plugin does not support all features.
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# Trim trailing whitespace
+[*]
+trim_trailing_whitespace = true
+
+# default charset
+[*.{ts,html,css}]
+charset = utf-8
+
+# 2 space indentation
+[*.{ts,html,css}]
+indent_style = space
+indent_size = 2
+
+# keep curly brackets on same line
+# UNSUPPORTED IN VSCODE (main project IDE)
+# [*.ts]
+# curly_bracket_next_line = false
+# ident_brace_style = K&R
+
+# use spaces surrounding infix operators
+# UNSUPPORTED IN VSCODE (main project IDE)
+# [*.ts]
+# spaces_around_operators	= true
